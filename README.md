@@ -18,7 +18,7 @@ Designed to be used with the [Alacritty](https://alacritty.org/) terminal and th
 
  The `alacritty-theme` command is the shell alias `select_theme.py --alacritty-themes-path=~/.config/alacritty/themes/themes --alacritty-config-path=~/.config/alacritty/alacritty.toml --posh-config-path=~/.config/kvdm.omp.toml'`
 
-![](images/screencast.gif)
+![](images/screencast__28pct_smaller.mp4)
 
 ## Motivation
 
